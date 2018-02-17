@@ -5,9 +5,9 @@ date: 2017-12-15 23:02:46 -0700
 comments: false
 ---
 
-Coding is an amazing magical thing. Coding lets you accomplish so much, and sometimes, with so little effort. Coding allows complex problems to be broken into simple workable problems that when chained together produce an orchestra of witty solutions that can make one weep with emotion of the final product. 
+Coding is an amazing magical thing. Coding lets you accomplish so much, and sometimes, with so little effort. Coding allows complex problems to be broken into simple workable set that when chained together produces an orchestra of solutions.
 
-Then there is the reality that more often than not, we don't decide our coding fate. More often than not, we have to work in a codebase that is actively working against us. Often times we are handed a set of contradictory requirements that on an infinite time scale would not be possible, and we have three weeks. More often than not we end up saying yes we can, when really we don't even know what we don't know, but given the promise that you can do anything with code, than surely it is possible some how some way. 
+Then there is the reality, we don't decide our coding fate. More often than not, the codebase you are working in, is actively working against you. A set of contradictory requirements with unrealistic expectations are usually the marching orders set before you.  Of course, anything is possible, so its usually worth a try even though you don't even know what you don't know, but given the promise that you can do anything with code, than surely it is possible some how some way.
 
 ![Coding Uphill]({{ site.baseurl}}/images/uphill.png)
 
